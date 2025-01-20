@@ -100,7 +100,7 @@ section p {
 }
 
 .project {
-  background: #f9f9f9;
+  background:rgb(182, 182, 182);
   padding: 1.5rem;
   margin: 1rem 0;
   border-radius: 10px;
@@ -161,6 +161,7 @@ form button {
   transition: background 0.3s;
 }
 
+
 form button:hover {
   background: #283e51;
 }
@@ -187,3 +188,4 @@ footer p {
     flex-direction: column;
   }
 }
+
